@@ -1,4 +1,4 @@
-package Tests;
+package org.launchcode.techjobs_oo.Tests;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -7,8 +7,6 @@ import org.launchcode.techjobs_oo.Employer;
 import org.launchcode.techjobs_oo.Location;
 import org.launchcode.techjobs_oo.CoreCompetency;
 import org.launchcode.techjobs_oo.PositionType;
-
-import java.lang.reflect.Array;
 
 import static org.junit.Assert.assertEquals;
 
